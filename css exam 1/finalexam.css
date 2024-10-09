@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color:cadetblue;
+    height:100px;
+    background-size: cover;
+    position: relative;
+    color: white;
+    font-size: 25px;
+}
+
+.ul a{
+    color: white;
+    margin-left: 550px;
+    font-size:29px;
+    margin-top: 50px;
+    list-style-type: none;
+}
+.jalpa{
+    background-color: rgba(127, 255, 212, 0.384);
+    height:940px;
+    color: rgba(0, 0, 0, 0.767);
+    margin-left:0 auto;
+    margin-top:0 auto;
+}
+.jalpa h1{
+    margin-left:100px;
+    font-size:35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    margin-top: 250px;
+}
+.jalpa p{
+    margin-left:100px;
+    margin-top:390px;
+    position: absolute;
+    font-size:15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn{
+    margin-left:150px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top:500px;
+    color:white;
+    background-color: rgba(255, 166, 0, 0.993);
+    border-radius:5px;
+    border-color: white;
+    height:50px;
+}
+.box-1{
+      height:870px;
+      width:999px;
+      background-color:  orange;
+      margin-left:1100px;
+      border-radius: 950px;
+}
+.img1{
+    height:870px;
+    width:1150px;
+    margin-right:50px;
+}    

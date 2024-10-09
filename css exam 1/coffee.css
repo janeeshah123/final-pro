@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+     background-color: rgb(85, 107, 47);
+     height:60px;
+     color: rgba(255, 255, 255, 0.842);
+     position: relative;
+}
+.hello h1{
+    font-size:30px;
+    color: white;
+    margin-top: 0;
+    margin-left: 25px;
+}
+ul {
+    margin-top: 0 auto;
+    float: right;
+}
+h2 {
+    float: right;
+    margin: 10px;
+    color: white;
+    top:10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline block;
+}
+
+.riya {
+      background-color: rgba(143, 188, 143, 0.671);
+     height:900px;
+     width:1200px;
+     margin-top:30px;
+     position: absolute;
+     
+}
+.riya h1{
+     font-size:100px;
+     color: rgba(85, 107, 47, 0.849);
+     margin-left: 55px;
+     margin-top:150px;
+}
+.riya p{
+    font-size:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(0, 0, 0, 0.644); 
+    margin: 5px;
+    margin-top:200px;
+    margin-left: 50px;
+}
+.btn{ 
+    background-color: darkolivegreen;
+    margin-top:40px;
+    margin-left:55px;
+    border-radius: 2px solid ;
+    color: whitesmoke;
+    padding-right: 0 auto;
+    font-size:30px;
+}
+.box-2{
+    background-color: rgba(85, 107, 47, 0.89);
+    margin-left:1200px;
+    height:899px;
+    width:690px;
+    position: absolute;
+    top:1px;
+}
+.img1{
+    background-color: rgba(85, 107, 47, 0.89);
+    margin-top:450px;
+    margin-right:350px;
+    height:300px;
+    position:absolute;
+    right:230px;
+}
+.img2{
+    margin-top:100px;
+    height:550px;
+    margin-left:200px;
+}
